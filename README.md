@@ -1,4 +1,4 @@
-# Connecting-the-first-Search-
+# Connecting-the-first-Search
 This repository contains the assignment work of the project 'Connecting the first search' offered by Stamatics IIT kanpur
 ## What the project does
 This project contains a complete postmortem of Graph Theory. The analysis of most of the algorithms and concepts of Graph Theory has been attempted through well-commented codes.
